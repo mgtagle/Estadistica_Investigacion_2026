@@ -1,11 +1,18 @@
 # Estadística en la Investigacion 2026
 
-Repositorio programa de Doctorado Estadística en la Investigación
+## Repositorio programa de Doctorado Estadística en la Investigación
 
-Contenido del curso
+## Objetivos del curso
 
-**Sesión 1**: 26/01/2026
+-   Aplicar los métodos estadísticos necesarion para el análisis de datos:
+    -   Forestales
+    -   Ambientales
+    -   Laboratorio
 
--   Crear cuenta de Github
--   Crear repositorio del curso
--   Primera sincronozación
+---
+
+## Elementos de aprendizaje
+
+---
+## Contenido del curso
+---

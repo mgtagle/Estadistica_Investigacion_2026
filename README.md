@@ -16,3 +16,4 @@
 ---
 ## Contenido del curso
 ---
+Semana 1: :dart: Crear un repositorio en Github

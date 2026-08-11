@@ -19,4 +19,6 @@
 Semana 1 :dart: Crear un repositorio en Github
   + Usuario de github: mgtagle
 
-Semana 2 :dart: Clonación del repositorio
+Semana 2 
++ :dart: Clonación del repositorio _Estadistica_investigacion_2026_
++ :dart: Creación del proyecto en Rstudio-

@@ -16,4 +16,7 @@
 ---
 ## Contenido del curso
 ---
-Semana 1: :dart: Crear un repositorio en Github
+Semana 1 :dart: Crear un repositorio en Github
+  + Usuario de github: mgtagle
+
+Semana 2 :dart: Clonación del repositorio
